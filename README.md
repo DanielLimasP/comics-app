@@ -1,4 +1,6 @@
-# Spa
+# Comics-app!!!
+
+Simple app to learn Angular... go and give this dude some love ❤️ [Fernando Herrera](https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
